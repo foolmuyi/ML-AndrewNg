@@ -1,1 +1,1 @@
-# ML-AndrewNg
+This is my programming exercise of AndrewNg's machine learning course. I uploaded it to github just for backing up.
