@@ -1,1 +1,1 @@
-This is my programming exercise of AndrewNg's machine learning course. I uploaded it to github just for backing up.
+This is programming exercises of AndrewNg's machine learning course. I uploaded it to github just for backing up. Please respect the Honor code. Don't copy my answer.
