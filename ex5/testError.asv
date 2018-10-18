@@ -1,0 +1,9 @@
+clc;
+lambda = 3;
+X_test = [zeros(size(Xtest,1),1),Xtest];
+theta = trainLinearReg(X_test,ytest,lambda);
+h_test = X_test * theta;
+theta
+t = size(h_test,1);
+error_test = ((h_test - ytest)'*(h_test - ytest))/2/t;
+error_test
